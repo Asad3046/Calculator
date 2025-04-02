@@ -7,7 +7,7 @@
 
 #calculator
 {
-    background-color:hsl(0, 0%, 15%);
+    background-color: black;
     border-radius: 15px;
     max-width: 500px;
     overflow: hidden;
@@ -23,8 +23,8 @@
     text-align: right;
     border-radius: 10px;
     border: none;
-    background-color:hsl(0, 0%, 20%);
-    color: white;
+    background-color: white;
+    color: rgb(49, 42, 42);
 
 }
 
